@@ -23,11 +23,12 @@
     
 ## Results
 Results Images
-![Results Images](output_images/output.png)
+![Results Images](https://raw.githubusercontent.com/KUASWoodyLIN/TF2-UNet/master/output_images/output.png)
 
 TensorBoard Output
-![Tensorboard Output](output_images/Tensorboard.png)
+![Tensorboard Output](https://raw.githubusercontent.com/KUASWoodyLIN/TF2-UNet/master/output_images/Tensorboard.png)
 
 ## References
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
+
 [TensorFlow Segmentation Example](https://www.tensorflow.org/beta/tutorials/images/segmentation)
